@@ -1,0 +1,334 @@
+/*Colors
+252B48 darker
+445069 dark
+5B9A8B green
+F7E987 yellow
+*/
+body{
+    position: static;
+    background: 20px;
+    background-color: #252B48;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.First #Heading{
+    position: static;
+    font-family: "Belanosima";
+    font-size: 38px;
+    color: #00875a;
+    border-radius: 30px;
+    margin-top: 20px;
+    
+    
+    
+}
+
+.First #Heading2{
+    position: static;
+    font-size: 80px;
+    text-justify: auto;
+    width: 580px;
+    font-weight: lighter;
+    font-family: "Bebas Neue";
+    color: #ffc400;
+    margin-top: 200px;
+    margin-bottom: 10px;
+    
+}
+
+.First #Phar{
+    position: static;
+    width: 600px;
+    font-weight: lighter;
+    margin-top: 5px;
+    font-size: 20px;
+    font-family: "calibri";
+    color: white;
+    
+}
+
+.First #photoheader{
+    position: absolute;
+    z-index: -1;
+    position: static;
+    height: 500px;
+    width: 800px;
+    margin-left: 500px;
+    margin-top: -500px;
+    
+    
+}
+.First #Butt{
+    width: 100px;
+    position: static;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: #00875a;
+    font-size: 15px;
+    font-family: "calibri";
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+
+.First #About{
+    position: static;
+    font-weight: lighter;
+    border-radius: 20px;
+    background-color: #445069;
+    color: #ffc400;
+    margin-top: 140px;
+    text-align: center;
+    font-size: 35px;
+    font-family: "Bebas Neue";
+}
+
+
+
+
+
+/*TEXT AND 2 PICTURES*/
+.Second{
+    margin-top: 120px;
+}
+
+.Second #Intro{
+    margin-left: 50px;
+    font-family: "Oswald";
+    margin-bottom: 10px;
+    width: 600px;
+    color: #00875a;
+}
+
+.Second #IntroP{
+    margin-left: 50px;
+    text-indent: 30px;
+    font-family: "Calibri";
+    margin-bottom: 0px;
+    font-size: 20px;
+    width: 700px;
+    color: white;
+}
+
+.Second #photo1{
+    border-color: #ffc400;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 120px;
+    margin-top: -320px;
+    margin-left: 850px;
+    width: 200px;
+    height: 200px;
+}
+
+.Second #photo2{
+    border-color: #ffc400;
+    border-width: 10px;
+    border-style: outset;
+    border-radius: 120px;
+    margin-top: -320px;
+    width: 200px;
+    height: 200px;
+}
+
+.Second #IntroP2{
+    width: 500px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+
+
+
+/*INFORMATIONS*/
+.third #Intro2{
+    color: #00875a;
+    font-family: "Oswald";
+}
+.fourth #Intro2{
+    color: #00875a;
+    font-family: "Oswald";
+}
+.fifth #Intro2{
+    color: #00875a;
+    font-family: "Oswald";
+}
+
+.third #IntroP2{
+    color: white;
+    font-family: "calibri";
+}
+.fourth #IntroP2{ 
+    color: white;
+    font-family: "calibri";
+}
+.fifth #IntroP2{
+    color: white;
+    font-family: "calibri";
+}
+
+
+
+
+.third{
+    position: static;
+    background-color: #445069;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 80px;
+    padding: 20px;
+    width: 300px;
+    padding-bottom: 170px;
+}
+
+.fourth{
+    position: static;
+    background-color: #445069;
+    border-radius: 50px;
+    margin-top: -525px;
+    margin-left: 430px;
+    padding: 20px;
+    width: 300px;
+}
+
+.fifth{
+    position: static;
+    background-color: #445069;
+    border-radius: 50px;
+    padding: 20px;
+    width: 300px;
+    margin-left: 830px;
+    margin-top: -525px;
+    margin-bottom: 50px;
+    padding-bottom: 105px;
+}
+
+.sixth{
+    margin-top: 120px;
+    margin-left: 500px;
+    text-align: left;
+    width: 700px;
+}
+
+.sixth #head{
+    font-family: "Oswald";
+    color: #00875a;
+}
+
+.sixth #IntroP2{
+    justify-content: left;
+    text-indent: 30px;
+    font-family: "Calibri";
+    font-size: 20px;
+    width: 700px;
+    color: white;
+}
+
+.photo #photo{
+    position: static;
+    margin-top: -300px;
+    margin-left: 50px;
+    height: 300px;
+    
+}
+
+.backgroundphoto #bgphoto{
+    width: 200px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: -700px;
+    z-index: -1;
+    margin-left: 500px;
+}
+
+.Buttons{
+    font-size: 15px;
+    font-family: "Calibri";
+    font-weight: lighter;
+    margin-left: 900px;
+    margin-top: -67px;
+    border-radius: 10px;
+    
+    
+}
+
+.Buttons #homebutton{
+    border-radius: 10px;
+    position: static;
+    color: #ffc400;
+    margin-bottom: -55px;
+    margin-left: -200px;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -60px;
+    
+    
+}
+
+.Buttons #contactbutton{
+    position: static;
+    margin-top: -58px;
+    margin-left: 150px;
+    color: white;
+    
+}
+
+.Buttons #aboutbutton{
+    position: static;
+    color: white;
+    margin-top: 13px;
+}
+.Last #headdisclaimer{
+    font-family: "Oswald";
+}
+
+.Last #disclaimer{
+    font-family: "calibri";
+}
+
+
+
+.Logo #fb{
+    
+    outline: #445069 solid;
+    border-radius: 100px;
+    width: 40px;
+}
+
+.Logo #ig{
+    outline: #445069 solid;
+    margin-left: 10px;
+    margin-top: 30px;
+    position: static;
+    border-radius: 100px;
+    width: 40px;
+}
+
+.Logo #tw{
+    outline: #445069 solid;
+    margin-left: 10px;
+    
+    border-radius: 100px;
+    width: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
